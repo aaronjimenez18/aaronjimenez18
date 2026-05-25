@@ -49,6 +49,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/aaronjimenez18/aaronjimenez18/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/aaronjimenez18/aaronjimenez18/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=aaronjimenez18&theme=dark&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ###
