@@ -47,14 +47,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aaronjimenez18/aaronjimenez18/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/aaronjimenez18/aaronjimenez18/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com/?user=aaronjimenez18&theme=dark&hide_border=true" height="150" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aaronjimenez18&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
