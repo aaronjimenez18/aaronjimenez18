@@ -1,5 +1,9 @@
 <h1 align="center">👨‍💻 Aarón Jimenez | Full Stack Developer</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED4F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;TypeScript+%26+React;Next.js+%26+TailwindCSS;Python+%26+Node.js" alt="Typing SVG" />
+</div>
+
 ###
 
 <div align="center">
@@ -45,6 +49,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/aaronjimenez18/aaronjimenez18/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/aaronjimenez18/aaronjimenez18/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaronjimenez18&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 ###
