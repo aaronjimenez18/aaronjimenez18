@@ -61,6 +61,12 @@
 ###
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote" />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/aaron-jimenez-robles-442550381" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
