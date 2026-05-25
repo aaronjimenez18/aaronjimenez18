@@ -18,7 +18,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: aaronjimenez18
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.METRICS_TOKEN }}
           outputs: |
             pacman-output/pacman-contribution-graph.svg
             pacman-output/pacman-contribution-graph-dark.svg?palette=github-dark
