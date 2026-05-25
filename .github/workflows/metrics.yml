@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         name: Generate stats
         with:
           filename: ./output/stats.svg
@@ -34,7 +34,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         name: Generate languages
         with:
           filename: ./output/languages.svg
