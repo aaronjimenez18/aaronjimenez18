@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Aarón Jimenez</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED4F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;TypeScript+%26+React;Next.js+%26+TailwindCSS;Python+%26+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED4F7&center=true&vCenter=true&width=435&lines=ingineer+software;TypeScript+%26+React;Next.js+%26+TailwindCSS;Python+%26+Node.js" alt="Typing SVG" />
 </div>
 
 ###
