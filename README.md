@@ -44,11 +44,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aaronjimenez18/aaronjimenez18/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaronjimenez18&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
-</div>
 
 ###
 <div align="center">
